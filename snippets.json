@@ -1,0 +1,9 @@
+{
+  "html": {
+    "snippets": {
+      "!!": "{<!DOCTYPE html>}>html[lang='${lang}']>(head>meta[charset='${charset}']+meta[http-equiv='X-UA-Compatible'][content='IE=edge']+meta[name='viewport'][content='width=device-width,initial-scale=1.0']+(title>{${title}${1}})+link:css)+body",
+      "nav:4": "nav>ul>li*4>a[href='#' title='']{Link}",
+      "nav:8": "nav>ul>li*8>a[href='#' title='']{Link}"
+    }
+  }
+}
